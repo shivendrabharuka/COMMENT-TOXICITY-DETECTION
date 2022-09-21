@@ -1,2 +1,3 @@
 # COMMENT-TOXICITY-DETECTION
-Contains the project where toxic comments can be identified
+This repository contains the Notebook file for comment toxicity detection
+
